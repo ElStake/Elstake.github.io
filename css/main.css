@@ -4658,11 +4658,7 @@ textarea.w-select {
     background-color: rgba(166, 177, 191, 0);
     color: #000;
   }
-  .container {
-    padding-top: 50px;
-    max-width: 728px;
-    max-height: fit-content;
-  }
+ 
   .nav-menu-two {
     display: -webkit-box;
     display: -webkit-flex;
